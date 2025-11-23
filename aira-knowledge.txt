@@ -1,0 +1,172 @@
+# Base de Conhecimento AIRA-TI
+(Conteúdo fictício para estudo e simulação)
+
+====================================================
+1. SAP
+====================================================
+
+## 1.1 Perfis do SAP
+Perfis disponíveis:
+- SAP_CONSULTA_PEDIDO
+- ADM2
+- SAP_RELATORIOS
+
+## 1.2 Como solicitar acesso
+SAP_CONSULTA_PEDIDO:
+1. Portal de Gestão de Acessos
+2. Acesso SAP – Consulta Pedido
+3. Selecionar perfil
+
+ADM2:
+1. Portal de Gestão de Acessos
+2. Acesso SAP – Requisição de Compra
+3. Selecionar perfil ADM2
+
+SAP_RELATORIOS:
+1. Portal de Gestão de Acessos
+2. Acesso SAP – Relatórios
+3. Selecionar perfil
+
+## 1.3 Responsáveis SAP
+- Consulta Pedido: Carlos Aprovatto — carlos.aprovatto@airati.com — (21) 90000-0001  
+- ADM2: Marina ClickRápido — marina.clickrapido@airati.com — (21) 90000-0002  
+- Relatórios: Joana Relatoriadora — joana.relatoriadora@airati.com — (21) 90000-0003  
+
+## 1.4 Release SAP
+Última release: 15/10/2025
+Próxima release: 10/01/2026
+
+
+====================================================
+2. VPN PARA FORNECEDOR
+====================================================
+
+## 2.1 Como solicitar VPN
+1. Validar matrícula
+2. Abrir chamado: Acesso → VPN → Fornecedor
+3. Informar nome, empresa e período
+
+## 2.2 Responsável VPN
+Rafael VPNzera — rafael.vpnzera@airati.com — (21) 90000-0004
+
+## 2.3 Link para solicitar VPN
+https://airati.com/solicitar-vpn
+
+## 2.4 Release VPN
+Última atualização: 20/09/2025
+
+
+====================================================
+3. FIREWALL
+====================================================
+
+## 3.1 Como solicitar regra
+1. Validar IP origem, IP destino, porta e protocolo
+2. Abrir chamado: Rede → Firewall → Nova Regra
+3. Informar ambiente e justificativa
+
+## 3.2 Responsável Firewall
+Lúcio FireLord — lucio.firelord@airati.com — (21) 90000-0005
+
+## 3.3 Release Firewall
+01/08/2025
+
+
+====================================================
+4. SISTEMAS INTERNOS
+====================================================
+
+---------------------------
+4.1 Sistema Fogão
+---------------------------
+Responsáveis:
+- Técnico: Rita Fervedoura — rita.fervedoura@airati.com — (21) 90000-0006  
+- Funcional: Marcos Panela — marcos.panela@airati.com — (21) 90000-0007  
+
+Acesso: Perfil FGN_USER  
+Release: 30/09/2025
+
+---------------------------
+4.2 Sistema Geladeira
+---------------------------
+Responsáveis:
+- Técnico: Fábio Frost — fabio.frost@airati.com — (21) 90000-0008  
+- Funcional: Ana Congelarini — ana.congelarini@airati.com — (21) 90000-0009  
+
+Acesso: Perfil GLD_READ  
+Release: 18/07/2025
+
+---------------------------
+4.3 Sistema Bicicleta
+---------------------------
+Responsáveis:
+- Técnico: Diego Pedal — diego.pedal@airati.com — (21) 90000-0010  
+- Funcional: Julia Guidão — julia.guidao@airati.com — (21) 90000-0011  
+
+Acesso: Perfil BIKE_FLOW  
+Release: 02/06/2025
+
+---------------------------
+4.4 Sistema Nuvem
+---------------------------
+Responsável Técnico:
+- João Cloudmaster — joao.cloudmaster@airati.com — (21) 90000-0012  
+
+Release: 10/08/2025
+
+---------------------------
+4.5 Sistema Sol
+---------------------------
+Responsável Funcional:
+- Clara Lumina — clara.lumina@airati.com — (21) 90000-0013  
+
+Release: 22/09/2025
+
+
+====================================================
+5. ONBOARDING
+====================================================
+
+## 5.1 Passos
+1. Acessar portal Boas-vindas TI
+2. Criar ou confirmar senha
+3. Acessar e-mail corporativo
+4. Fazer trilha de sistemas
+5. Abrir chamado se necessário
+
+## 5.2 Responsável Onboarding
+Ana GuiaPerdidos — ana.guiaperdidos@airati.com — (21) 90000-0014
+
+## 5.3 Release Onboarding
+01/07/2025
+
+
+====================================================
+6. LINKS ÚTEIS
+====================================================
+
+SharePoint de Processos:
+https://airati.sharepoint.com/sites/processos
+
+Central de Chamados (TI):
+https://powerapps.airati.com/apps/central-chamados
+
+
+====================================================
+7. AÇÃO: ABERTURA DE CHAMADOS
+====================================================
+
+Ação funcional usada pelo agente AIRA-TI para orientar abertura de solicitações.
+
+## 7.1 Link oficial
+Central de Chamados:
+https://powerapps.airati.com/apps/central-chamados
+
+## 7.2 Exemplos de uso
+- “AIRA, onde abro chamado?”
+- “Preciso abrir acesso Processos.”
+- “Como pedir VPN?”
+
+## 7.3 Links de apoio
+SharePoint Processos: https://airati.sharepoint.com/sites/processos  
+Solicitar VPN: https://airati.com/solicitar-vpn  
