@@ -23,13 +23,28 @@ Criar uma assistente que:
 A ação abrirChamadoSuporte retorna o link correto para abertura de chamados internos.
 
 ## Prints Necessários
-- Tela inicial do agente
-- Playground respondendo perguntas da base
-- Pergunta que não existe
-- Ação funcional funcionando
-- Azure AI Search
-- Deploy
-- Repositório organizado
+
+### Tela inicial do agente
+![Tela inicial do agente](prints/01-agente.png)
+
+### Playground respondendo perguntas da base
+![Playground base](prints/02-playground-base.png)
+
+### Pergunta que não existe
+![Pergunta não encontrada](prints/03-nao-encontrado.png)
+
+### Ação funcional funcionando
+![Ação funcional](prints/04-acao-funcional.png)
+
+### Azure AI Search – Índice e Indexador
+![Azure Search](prints/05-index-search.png)
+
+### Tela de Deploy
+![Deploy](prints/06-deploy.png)
+
+### Repositório organizado
+![Repositório GitHub](prints/07-github.png)
+
 
 ## Estrutura do Repositório
 AIRA  
