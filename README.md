@@ -20,7 +20,7 @@ Criar uma assistente que:
 - Power Apps / Logic Apps
 
 ## Ação Funcional
-A ação abrirChamadoSuporte retorna o link correto para abertura de chamados internos.
+A AIRA usa a ação abrirChamadoSuporte, integrada ao Logic Apps. Quando o usuário pede abertura de chamado, o agente envia os dados para o fluxo, recebe o retorno em JSON e confirma a criação do chamado.
 
 ## Prints Necessários
 
@@ -38,7 +38,6 @@ A ação abrirChamadoSuporte retorna o link correto para abertura de chamados in
 
 ### 04 – Ação funcional funcionando
 ![Ação funcional 01](prints/04-01acao-funcional.png)  
-![Ação funcional 02](prints/04-02acao-funcional.png)
 
 ### 05 – Azure AI Search: Index e Indexer
 ![Index search 01](prints/05-01index-search.png)  
