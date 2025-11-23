@@ -24,26 +24,29 @@ A ação abrirChamadoSuporte retorna o link correto para abertura de chamados in
 
 ## Prints Necessários
 
-### Tela inicial do agente
-![Tela inicial do agente](prints/01-agente.png)
+### 01 – Tela inicial do agente
+![Tela inicial](prints/01%20Tela%20inicio.png)
 
-### Playground respondendo perguntas da base
-![Playground base](prints/02-playground-base.png)
+### 02 – Playground respondendo perguntas da base
+![Playground base 01](prints/02-01playground-base.png)  
+![Playground base 02](prints/02-02playground-base.png)  
+![Playground base 03](prints/02-03playground-base.png)  
+![Playground base 04](prints/02-04playground-base.png)
 
-### Pergunta que não existe
+### 03 – Pergunta que não existe
 ![Pergunta não encontrada](prints/03-nao-encontrado.png)
 
-### Ação funcional funcionando
-![Ação funcional](prints/04-acao-funcional.png)
+### 04 – Ação funcional funcionando
+![Ação funcional 01](prints/04-01acao-funcional.png)  
+![Ação funcional 02](prints/04-02acao-funcional.png)
 
-### Azure AI Search – Índice e Indexador
-![Azure Search](prints/05-index-search.png)
+### 05 – Azure AI Search: Index e Indexer
+![Index search 01](prints/05-01index-search.png)  
+![Index search 02](prints/05-02index-search.png)
 
-### Tela de Deploy
+### 06 – Deploy do agente
 ![Deploy](prints/06-deploy.png)
 
-### Repositório organizado
-![Repositório GitHub](prints/07-github.png)
 
 
 ## Estrutura do Repositório
