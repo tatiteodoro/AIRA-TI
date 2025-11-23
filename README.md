@@ -37,7 +37,7 @@ A AIRA usa a ação abrirChamadoSuporte, integrada ao Logic Apps. Quando o usuá
 ![Pergunta não encontrada](prints/03-nao-encontrado.png)
 
 ### 04 – Ação funcional funcionando
-![Ação funcional 01](prints/04-01acao-funcional.png)  
+![Ação funcional 01](prints/04-acao-funcional.png)  
 
 ### 05 – Azure AI Search: Index e Indexer
 ![Index search 01](prints/05-01index-search.png)  
