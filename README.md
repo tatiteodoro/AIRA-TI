@@ -46,6 +46,8 @@ A AIRA usa a ação abrirChamadoSuporte, integrada ao Logic Apps. Quando o usuá
 ### 06 – Deploy do agente
 ![Deploy](prints/06-deploy.png)
 
+### 07 – Repositório
+![GitHub Repo](prints/07-github.png)
 
 
 ## Estrutura do Repositório
